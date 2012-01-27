@@ -1,0 +1,9 @@
+# Ignore all python binary files
+*.pyc
+*.dl
+*.gexf
+*.csv
+
+# and anything in the data directory
+data/*
+
